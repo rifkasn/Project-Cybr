@@ -34,8 +34,8 @@ Dibangun sepenuhnya menggunakan **Free & Open Source Software (FOSS)** dengan fo
 ---
 
 ## 📚 Documentation
-- 📄 [High Level Design (HDL)](docs/HDL.md)
-- 📄 [Low Level Design (LLD)](docs/LLD.md)
+- 📄 [High Level Design (HDL)](docs/High Level Design.md)
+- 📄 [Low Level Design (LLD)](docs/Low Level Design.md)
 
 ---
 
