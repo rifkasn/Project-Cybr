@@ -61,8 +61,8 @@ Project ini dirancang sebagai:
 | Task | PIC |
 |------|-----|
 | Design & Setup System | Fathur |
-| Validasi Sistem | TBD |
-| Testing Simulasi | TBD |
-| Dokumentasi & Report | TBD |
+| Validasi Sistem |  Arga |
+| Testing Simulasi | Dimas |
+| Dokumentasi & Report | Rifka |
 
 ---
