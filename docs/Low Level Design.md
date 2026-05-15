@@ -25,6 +25,7 @@ Install Proxmox VE:
 ```bash
 # download ISO dari official proxmox
 # install via bootable media
+```
 
 3. 🧱 Virtual Machine Design
 | VM Name      | OS      | Function          | RAM  | CPU    |
@@ -57,7 +58,8 @@ Install Proxmox VE:
 
 ```bash
 curl -fsSL https://pkgs.netbird.io/install.sh | sh
-netbird up
+netbird up 
+```
 
 ---
 ## 6. 🛡️ Wazuh
@@ -65,6 +67,7 @@ netbird up
 ```bash
 curl -sO https://packages.wazuh.com/install.sh
 sudo bash install.sh
+```
 
 ---
 ## 7. 🐝 Honeypot
@@ -73,6 +76,7 @@ sudo bash install.sh
 git clone https://github.com/telekom-security/tpotce
 cd tpotce
 sudo ./install.sh
+```
 
 ---
 ## 8. 🔄 Integration
@@ -85,6 +89,7 @@ sudo ./install.sh
 
 ```bash
 hydra -l root -P pass.txt ssh://target-ip
+```
 
 ---
 ## 10. 🔐 Security
@@ -124,6 +129,7 @@ docker ps
 # cek network
 ip a
 ping 8.8.8.8
+```
 
 ### ⚠️ Notes
 
